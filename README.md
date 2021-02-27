@@ -1,2 +1,5 @@
-# react-jokes-classes
- 
+### Initialization
+
+```
+npm install && npm start
+```
